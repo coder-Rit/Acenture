@@ -1,5 +1,8 @@
 
 
+
+//  * https://youtu.be/Et7-q35VW-k?si=FoZxNvKS7sWEBefJ
+
 /*
  * Segregate Even and odd number :
 
@@ -68,7 +71,7 @@ public class SeprateOddEvenNumber {
     public static void main(String[] args) {
         int[] nums = getInputs();
         seprate(nums);
-        
+
         for (int i : nums) {
             System.out.print(i+" ");
         }

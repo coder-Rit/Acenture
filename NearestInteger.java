@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-
+// * https://youtu.be/KyCOQmF8Imo?si=AfsMMKBL4UWvTzFR
 
 /*
  
@@ -42,7 +42,7 @@ public class NearestInteger {
         Scanner obj = new Scanner(System.in);
         return obj.nextInt();
     }
-    
+
     public static void main(String[] args) {
         System.out.print("num: ");
         int num = getInputs();
